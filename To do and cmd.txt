@@ -1,0 +1,13 @@
+			TO DO
+1. Load train image:
+ 	+ Load image
+	+ Load mask and generate bbox
+2. Load validation image:
+	+ Load image
+	+ Load mask and generate bbox
+3. Train
+4. Train OriginImage and Transform Image
+5. Try to change backbone
+
+
+

@@ -1,0 +1,3 @@
+Cython
+pip install git+https://github.com/gautamchitnis/cocoapi.git@cocodataset-master#subdirectory=PythonAPI
+pip install pycocotools-windows
